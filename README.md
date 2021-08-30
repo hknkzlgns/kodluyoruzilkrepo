@@ -1,6 +1,6 @@
 ## Öncelikle projeyi clonelayın. 
 
-git clone https://github.com/burakyuz1/kodluyoruzilkrepo
+git clone https://github.com/hknkzlgns/kodluyoruzilkrepo
 
 ## Usage Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
